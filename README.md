@@ -3,30 +3,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Data+Scientist;I'm+also+studying+Financial+Engineering" /></a>
 </p>
 
-<p align ="center">
-  <a  href="https://ifeanyinneji.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/My_Website-000000?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="example"/>
-  </a>
-  <a href="https://ifeanyinneji.hashnode.dev/" target="_blank">
-      <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="example"/>
-  </a>	
-  <a href="mailto:ifeanyinneji777@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
-  </a>
-   <a href="https://www.linkedin.com/in/ifeanyi-nneji-719989235" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>   
- 
-  </a>  
-  <a href="https://twitter.com/Neji_14" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
-    </a>
-
-  <a href="https://medium.com/@ifeanyinneji777" target="_blank">
-      <img src="https://img.shields.io/badge/Medium-black.svg?style=for-the-badge&logo=Medium&logoColor=white" alt="example"/>
-    </a>
-  </p>
-
 
 <p >I work with data to make data driven decisions and to build applications using tools like Python Programming Language, SQL, FastAPI, Machine Learning frameworks, Cloud tools(AWS, Heroku) and basically any tool suitable for the task at hand.😁
 </p>
@@ -69,13 +45,6 @@
     <img alt="Markdown" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
   </a>
 
-</p>
-  
-### Visualisation Tools
-<p  
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="jetbrains" />
-  </a>
 </p>
   
 ### Development Tools
@@ -209,72 +178,6 @@
  </p>
 
 -->
-
-## Projects
-
-<a href="https://github.com/Nneji123/Machine-Learning-Course-Projects">
-
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Machine-Learning-Course-Projects&theme=dark" />
-
-</a>  
-
-<a href="https://github.com/Nneji123/Alien-Shooter">
-
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Alien-Shooter&theme=dark"/>
-
-</a> 
-
-<a href="https://github.com/Nneji123/Credit-Card-Fraud-Detection">
-
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Credit-Card-Fraud-Detection&theme=dark" />
-
-</a> 
-
-<a href="https://github.com/Nneji123/FIFA-22-Player-Analysis">
-
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=FIFA-22-Player-Analysis&theme=dark" />
-
-</a> 
-
-<a href="https://github.com/Nneji123/Heart-Failure-Prediction-Web-App-with-Flask">
-
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Heart-Failure-Prediction-Web-App-with-Flask&theme=dark" />
-
-</a>
-
-<a href="https://github.com/Nneji123/Titanic-Survival-Prediction-with-FastAPI-and-Docker">
-
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Titanic-Survival-Prediction-with-FastAPI-and-Docker&theme=dark" />
-
-</a>
-
-<a href="https://github.com/Nneji123/Dog-Breed-Prediction-Streamlit-App">
-
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Dog-Breed-Prediction-Streamlit-App&theme=dark" />
-
-</a>
-
-<a href="https://github.com/Nneji123/Streamlit-Web-App-Projects">
-
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Streamlit-Web-App-Projects&theme=dark" />
-
-</a>
 
 
 
