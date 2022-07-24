@@ -314,35 +314,12 @@
 
 <br/>
 
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nneji123&theme=dark&no-frame=false&no-bg=false&margin-w=4)
-
-## What I'm Currently Listening To
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=thiei724elvwcervp1qpymi9m&cover_image=true&theme=default&bar_color=18cd1b&bar_color_cover=false" 
-      alt="example"> 
-</p>
-   
-
-----
-
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
-
-------
-![](https://hit.yhype.me/github/profile?user_id=101701760)
-
-
-
 <!---
 ## About Me
 - 👀 I’m interested in Python programming
 - 🌱 I’m currently learning Machine Learning and Data Science using python
 - 💞️ I’m looking to collaborate on any development project 
-- 📫 How to reach me: ifeanyinneji777@gmail.com
+- 📫 How to reach me: 
 - >
 
 
